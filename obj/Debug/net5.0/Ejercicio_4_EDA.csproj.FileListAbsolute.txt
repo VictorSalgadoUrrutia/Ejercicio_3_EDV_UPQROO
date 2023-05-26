@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\Ejercicio_4_EDA\bin\Debug\net5.0\Ejercicio_4_EDA.exe
+C:\Users\victo\source\repos\Ejercicio_4_EDA\bin\Debug\net5.0\Ejercicio_4_EDA.deps.json
+C:\Users\victo\source\repos\Ejercicio_4_EDA\bin\Debug\net5.0\Ejercicio_4_EDA.runtimeconfig.json
+C:\Users\victo\source\repos\Ejercicio_4_EDA\bin\Debug\net5.0\Ejercicio_4_EDA.runtimeconfig.dev.json
+C:\Users\victo\source\repos\Ejercicio_4_EDA\bin\Debug\net5.0\Ejercicio_4_EDA.dll
+C:\Users\victo\source\repos\Ejercicio_4_EDA\bin\Debug\net5.0\Ejercicio_4_EDA.pdb
+C:\Users\victo\source\repos\Ejercicio_4_EDA\obj\Debug\net5.0\Ejercicio_4_EDA.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Ejercicio_4_EDA\obj\Debug\net5.0\Ejercicio_4_EDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\Ejercicio_4_EDA\obj\Debug\net5.0\Ejercicio_4_EDA.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Ejercicio_4_EDA\obj\Debug\net5.0\Ejercicio_4_EDA.AssemblyInfo.cs
+C:\Users\victo\source\repos\Ejercicio_4_EDA\obj\Debug\net5.0\Ejercicio_4_EDA.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Ejercicio_4_EDA\obj\Debug\net5.0\Ejercicio_4_EDA.dll
+C:\Users\victo\source\repos\Ejercicio_4_EDA\obj\Debug\net5.0\refint\Ejercicio_4_EDA.dll
+C:\Users\victo\source\repos\Ejercicio_4_EDA\obj\Debug\net5.0\Ejercicio_4_EDA.pdb
+C:\Users\victo\source\repos\Ejercicio_4_EDA\obj\Debug\net5.0\Ejercicio_4_EDA.genruntimeconfig.cache
+C:\Users\victo\source\repos\Ejercicio_4_EDA\obj\Debug\net5.0\ref\Ejercicio_4_EDA.dll
